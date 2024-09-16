@@ -1,0 +1,8 @@
+OrderID,CustomerID,ProductID,Quantity,UnitPrice
+1001,CUST001,PROD001,2,10.50
+1002,CUST002,PROD002,1,15.00
+1003,CUST001,PROD003,3,5.00
+1004,VIP,PROD001,10,8.00  // Bulk order for a VIP customer
+1005,CUST003,PROD002,4, 15.00 // Extra space in input
+1006,,PROD004,2,12.00      // Missing CustomerID
+1007,CUST002,PROD003,6,5.00
